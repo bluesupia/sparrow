@@ -1,0 +1,4 @@
+rootProject.name = 'sparrow'
+include 'sparrow-provision'
+include 'sparrow-api'
+
